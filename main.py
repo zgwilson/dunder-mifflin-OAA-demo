@@ -3,7 +3,7 @@ import json
 from veza.oaa import VezaClient
 
 # Initialize Veza client (replace with your API key and Veza URL)
-veza_client = VezaClient(api_key="YOUR_API_KEY", base_url="https://your-veza-instance.veza.com")
+veza_client = VezaClient(api_key="k1T8YmWitCOMpkMsipurpC443sGBpHmUImnkev1uGZteJKD4a1aepkaUJoJk8nKchvh7hvV9fJzTi8HrgwaDOwGjIwEd5nW8asktfmyRTUTrkvkxesvoPEPH2Ex5c9ZJjKwiFGEUFUkbXvpAbDnQLa1Zy6USLDzJ6tpPtFCZqNkQ", base_url="https://lab-se.vezacloud.com")
 
 # Define the custom application
 app_name = "Dunder Mifflin Demo"
