@@ -1,0 +1,3 @@
+[submodule "oaa-community"]
+	path = oaa-community
+	url = https://github.com/Veza/oaa-community.git

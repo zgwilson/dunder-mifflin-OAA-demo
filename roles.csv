@@ -1,0 +1,5 @@
+name,description
+Regional Manager,Full access to all systems
+Sales Representative,Access to Sales CRM and read-only access to Paper Inventory
+HR Representative,Full access to HR System
+Warehouse Worker,Write access to Paper Inventory System

@@ -1,0 +1,8 @@
+role,resource,permissions
+Regional Manager,Paper Inventory System,admin
+Regional Manager,Sales CRM,admin
+Regional Manager,HR System,admin
+Sales Representative,Sales CRM,read,write
+Sales Representative,Paper Inventory System,read
+HR Representative,HR System,admin
+Warehouse Worker,Paper Inventory System,write
